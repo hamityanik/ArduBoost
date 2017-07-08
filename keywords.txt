@@ -1,0 +1,3 @@
+ArduBoost	KEYWORD1
+isBattEmpty	KEYWORD2
+isBattCharging	KEYWORD2
