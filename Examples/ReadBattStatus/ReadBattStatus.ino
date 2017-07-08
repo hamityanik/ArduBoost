@@ -12,7 +12,7 @@
  *----------------------------------------------------------------------*/
 
 #include <ArduBoost.h>        // https://github.com/hamityanik/ArduBoost
-                              // https://www.tindie.com/products/iohippo/arduboos-lipo-arduino-battery-and-charging-addon/
+                              // https://www.tindie.com/products/iohippo/arduboost-lipo-arduino-battery-and-charging-addon/
 
 ArduBoost arduboost;
 
